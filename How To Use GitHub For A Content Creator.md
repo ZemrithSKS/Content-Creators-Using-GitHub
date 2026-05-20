@@ -11,8 +11,8 @@ Organise your Obsidian notes into correct folders, from your folder with your co
 
 Make a repository (repo) in GitHub, either the website or through the app. Note: When you update scripts written through Obsidian, it will update live to your coding software, make sure to test this.
 
-Next step drag and drop the markdown from your coding software to your repository (the same file that updates from Obsidian. You can put this in individual branches with different files into it. 
+You can add different branches for different version of your writing scripts in your repository, for yourself, privately, or publicly and you can even charge for it.
 
-Through the coding software, every time you update in Obsidian, you, through the coding software go to the source panel to the left and press commit, leave a note and add what you changed, so you know what you updated.
+Through the coding software, every time you update in Obsidian, you, through the coding software go to the source panel to the left and press commit, leave a note and add what you changed, so you know what you updated in GitHub
 
-You'll have a copy of your changes, and notes.  Testing
+You'll have a copy of your changes, and notes. 
