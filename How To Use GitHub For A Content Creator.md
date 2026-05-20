@@ -16,3 +16,5 @@ You can add different branches for different version of your writing scripts in 
 Through the coding software, every time you update in Obsidian, you, through the coding software go to the source panel to the left and press commit, leave a note and add what you changed, so you know what you updated in GitHub
 
 You'll have a copy of your changes, and notes. 
+
+Once you update changed to Obsidian, check your coding software and commit there, then on GitHub commit and push so your updates are live on GitHub
