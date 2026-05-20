@@ -39,3 +39,5 @@ You can use individual branches, for different versions of your content, or diff
 When you update the note in Obsidian changes will show up in GitHub App or website, and you need to commit the changes where you can add notes, as well as a description and see your changes, then you need to push it to GitHub Website or App.
 
 You'll have a copy of your changes, and notes on GitHub.
+
+Note: with both versions of this guide, you can copy the steps for different files either in branch or a new repository for organisational purposes. 
