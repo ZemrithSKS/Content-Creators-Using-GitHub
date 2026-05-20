@@ -9,7 +9,7 @@
 
 Organise your Obsidian notes into correct folders, from your folder with your content creation, right click it and use "Show in folder." With this file you need to copy it to your coding software and make sure you save the markdown in the **exact** same folder as the content creation folder you use in Obsidian (if you use a few make these separate a markdown.)
 
-Make a repository (repo) in GitHub, either the website or through the app. Note: When you update scripts written through Obsidian, it will update live to your coding software, make sure to test this.
+Make a repository (repo) in GitHub, either the website or through the app. Note: When you update scripts written through Obsidian, it will update live to your coding software, make sure to test this. Make sure the Obsidian file is the exact same as the file in your coding software.
 
 You can add different branches for different version of your writing scripts in your repository, for yourself, privately, or publicly and you can even charge for it.
 
