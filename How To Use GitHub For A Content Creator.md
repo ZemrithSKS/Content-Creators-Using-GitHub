@@ -17,4 +17,4 @@ Through the coding software, every time you update in Obsidian, you, through the
 
 You'll have a copy of your changes, and notes. 
 
-Once you update changed to Obsidian, check your coding software and commit there, then on GitHub commit and push so your updates are live on GitHub
+Once you update changed to Obsidian, check your coding software and commit there, then on GitHub commit and push so your updates are live on GitHub. But you can also update on Obsidian with the same folders and files intact and not move them and commit on GitHub and Push on GitHub.
