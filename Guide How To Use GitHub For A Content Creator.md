@@ -1,6 +1,8 @@
 
 There are two versions of this, with coding software, and below that without coding software, I've tested it myself on 20/05/2026 at 05:54 AM
 
+There are tips below the second method to use GitHub with Obsidian without coding software (recommended.)
+
 # What you need:
 
 1. Coding software
@@ -41,3 +43,10 @@ When you update the note in Obsidian changes will show up in GitHub App or websi
 You'll have a copy of your changes, and notes on GitHub.
 
 Note: with both versions of this guide, you can copy the steps for different files either in branch or a new repository for organisational purposes. 
+
+
+Organisational tips:
+
+If you have an Obsidian folder with a lot of subfolders, you want your GitHub repository to be in that folder path not the subfolder. Doing this the changes you make can still be committed and pushed on GitHub, when you want to and have checked the changes.
+
+You can also commit to different branches, for either different versions, or the branch is different topics or scripts of your work, and it can be organised the same as your subfolders in Obsidian.
