@@ -45,7 +45,7 @@ You'll have a copy of your changes, and notes on GitHub.
 Note: with both versions of this guide, you can copy the steps for different files either in branch or a new repository for organisational purposes. 
 
 
-Organisational tips:
+# Organisational tips:
 
 If you have an Obsidian folder with a lot of subfolders, you want your GitHub repository to be in that folder path not the subfolder. Doing this the changes you make can still be committed and pushed on GitHub, when you want to and have checked the changes.
 
